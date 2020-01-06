@@ -1,5 +1,5 @@
 .metadata
-.metadata/.mylyn/tasks.xml.zip
+.recommenders
 *.zip
 */bin/
 **/.settings

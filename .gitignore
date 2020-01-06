@@ -1,0 +1,7 @@
+.metadata
+.metadata/.mylyn/tasks.xml.zip
+*.zip
+*/bin/
+**/.settings
+**/.classpath
+**/.project

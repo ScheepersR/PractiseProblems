@@ -5,3 +5,4 @@
 **/.settings
 **/.classpath
 **/.project
+**/advent_2023/*.txt
